@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="popular">Query popular Movies</string>
+    <string name="top_rated">Query Top Rated Movies</string>
+    <string name="release_date">Released :</string>
+    <string name="overview">OVERVIEW :</string>
+    <string name="favorite">Query Favorite Movies</string>
+    <string name="language">Original Language : </string>
+    <string name="released">Released : </string>
+    <string name="out_of_ten">/ 10</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

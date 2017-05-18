@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MovieApp.iml" filepath="$PROJECT_DIR$/MovieApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieApp_Stage_2-master.iml" filepath="$PROJECT_DIR$/MovieApp_Stage_2-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emmjk-MovieApp_Stage_2-da42a15.iml" filepath="$PROJECT_DIR$/emmjk-MovieApp_Stage_2-da42a15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emmjk-emmjk-MovieApp_Stage_2-da42a15-223ebd7.iml" filepath="$PROJECT_DIR$/emmjk-emmjk-MovieApp_Stage_2-da42a15-223ebd7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emmjk-emmjk-emmjk-MovieApp_Stage_2_final-01cb649.iml" filepath="$PROJECT_DIR$/emmjk-emmjk-emmjk-MovieApp_Stage_2_final-01cb649.iml" />
+    </modules>
+  </component>
+</project>

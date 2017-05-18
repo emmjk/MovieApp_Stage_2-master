@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/white"
+    tools:context="com.example.mtecgwa_jr.movieapp.ViewPagerFragments.ReviewFragment">
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/review_list">
+
+    </android.support.v7.widget.RecyclerView>
+    <ProgressBar
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:id="@+id/progress_bar_review"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"
+        android:visibility="gone"/>
+</RelativeLayout>

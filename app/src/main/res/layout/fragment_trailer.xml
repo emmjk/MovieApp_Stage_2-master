@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="@color/white"
+    tools:context="com.example.mtecgwa_jr.movieapp.ViewPagerFragments.TrailerFragment">
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/trailer_list">
+
+    </android.support.v7.widget.RecyclerView>
+    <ProgressBar
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:id="@+id/progress_bar_trailer"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"
+        android:visibility="gone"/>
+</RelativeLayout>
